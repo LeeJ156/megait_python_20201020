@@ -30,9 +30,15 @@
 ### [문제 4](03_loop/quiz04) : 종합 문제
 
 ### [추가 문제1](15_loop_quiz/quiz01)  
-### [추가 문제2](16_nested_loop_quiz)
 
-# 04. 함수(Function)
+# 04. 중첩 반복문(Nested Loop)
+
+## 문제
+### [문제 1](05_nested_loop/quiz01) : 중첩 반복문(Nested Loop)
+
+### [추가 문제1](16_nested_loop_quiz)
+
+# 05. 함수(Function)
 
 ### [강의 자료](04_function/README.md)
 
@@ -40,10 +46,7 @@
 ### [문제 1](04_function/quiz01) : 함수 만들기
 ### [문제 2](04_function/quiz02) : 종합 문제
 
-# 05. 중첩 반복문(Nested Loop)
 
-## 문제
-### [문제 1](05_nested_loop/quiz01) : 중첩 반복문(Nested Loop)
 
 # 06. List 자료구조
 
