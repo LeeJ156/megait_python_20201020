@@ -29,14 +29,13 @@
 ### [문제 3](03_loop/quiz03) : break문
 ### [문제 4](03_loop/quiz04) : 종합 문제
 
-### [추가 문제1](15_loop_quiz/quiz01)  
-
 # 04. 중첩 반복문(Nested Loop)
 
 ## 문제
 ### [문제 1](04_nested_loop/quiz01) : 중첩 반복문(Nested Loop)
 
-### [추가 문제1](16_nested_loop_quiz)
+### [추가 문제1](15_loop_quiz/quiz01)  
+### [추가 문제2](16_nested_loop_quiz)
 
 # 05. 함수(Function)
 
