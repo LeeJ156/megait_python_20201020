@@ -49,4 +49,4 @@ class 클래스명:
 * 소멸자(Destructor): 객체가 소멸되기 직전에 마지막으로 불리는 특수한 메소드
 
 ### 클래스 변수와 멤버 변수의 차이
-https://marobiana.tistory.com
+https://marobiana.tistory.com/162
