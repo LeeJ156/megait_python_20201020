@@ -22,6 +22,8 @@ class Person:
 
     def age(self):
         # '19990101'
+        # 변수 앞에 self가 없는 이유: age 메소드에서만 사용하기 위한 일반 변수이다.
+        #   여기서 만들어진 일반 변수는 외부(다른메소드나 클래스 밖에서)에서 사용 불가.
         year = int(self.birth[0:4])
         age = 2020 - year + 1
         print("나이는 %d세이다." % age)
