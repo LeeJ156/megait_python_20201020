@@ -94,12 +94,12 @@
   
 ### [추가 문제1](17_class_extra/quiz01/README.md)
 
-# 12. 상속(Inheritance)
+# 12. 파일 읽기, 쓰기
 
-### [강의 자료](12_inheritance/README.md)
+### [강의 자료](12_file/README.md)
 
 ## 문제
-### [문제 1](12_inheritance/quiz01) : 상속(Inheritance)
+### [문제 1](12_file/quiz01) : 파일 읽기, 쓰기
 
 # 13. 모듈(Module)
 
