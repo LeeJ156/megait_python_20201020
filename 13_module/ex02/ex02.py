@@ -1,3 +1,4 @@
+# 모듈 사용하기
 from ex02_module import *
 
 print(module_author)
