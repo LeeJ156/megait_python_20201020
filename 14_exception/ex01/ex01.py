@@ -2,9 +2,6 @@
 # try - except - finally
 
 try:
-    # 0으로 나누려고 시도 (ZeroDivisionError)
-    # div = 1000 / 0
-
     # 잘못된 인덱스 참조 (IndexError)
     # list1 = [1, 2, 3]
     # print(list1[4])
