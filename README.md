@@ -29,14 +29,13 @@
 ### [문제 3](03_loop/quiz03) : break문
 ### [문제 4](03_loop/quiz04) : 종합 문제
 
-### [추가 문제1](15_loop_quiz/quiz01)  
-
 # 04. 중첩 반복문(Nested Loop)
 
 ## 문제
 ### [문제 1](04_nested_loop/quiz01) : 중첩 반복문(Nested Loop)
 
-### [추가 문제1](16_nested_loop_quiz)
+### [추가 문제1](15_loop_quiz/quiz01)  
+### [추가 문제2](16_nested_loop_quiz)
 
 # 05. 함수(Function)
 
@@ -92,6 +91,8 @@
 ### [문제 1](11_class/quiz01) : 클래스(Class)
 ### [문제 2](11_class/quiz02) : 클래스(Class), 생성자(Constructor)
 ### [문제 3](11_class/quiz03) : 클래스 설계
+  
+### [추가 문제1](17_class_extra/quiz01/README.md)
 
 # 12. 상속(Inheritance)
 
